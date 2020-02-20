@@ -1,0 +1,9 @@
+build/*
+*/build/
+*/*/build/*
+config.sh
+*~
+*.tar.gz
+*.pyc
+.\#*
+\#*\#
